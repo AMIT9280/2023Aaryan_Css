@@ -1,0 +1,19 @@
+Web site 
+
+1 ---> Html       ----> Done
+2 ---> Css        ----> Design
+3 ---> Javascript
+
+
+How To Add Css In Html
+
+1 ----> External Css     Create New Css File And Link With Html Page style.Css
+2 ----> Internal Css     Write Css In Html Page <style>  Css Properties </style>
+3 ----> Inline Css       Write inline Css In A particular Tag <p style="color="red"></p>
+
+
+How To Apply Css 
+
+Using Class="A"      .A{   }
+Using id="B"         #B{   }
+Using Tag    <p></p>  p{   }     

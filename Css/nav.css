@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.619);
+    padding:  5px ;
+}
+
+.logo img{
+    height: 40px;
+}
+
+.links{
+    float: right;
+    display: flex;
+    margin-top: -30px;
+}
+.items a{
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+}
