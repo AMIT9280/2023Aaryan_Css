@@ -3,9 +3,11 @@
     margin: 0px;
 }
 
-.navbar{
+.navbar1{
     background-color: rgba(0, 0, 0, 0.619);
     padding:  5px ;
+    height: 80px;
+   
 }
 
 .logo img{
@@ -18,7 +20,13 @@
     margin-top: -30px;
 }
 .items a{
-    padding: 20px;
+    padding: 10px;
     text-decoration: none;
+    color: white;
+}
+.items i{
+    color: orangered;
+}
+.cont i{
     color: white;
 }
